@@ -1,0 +1,19 @@
+P{
+    text-align: center;
+    font-size: xx-large;
+    font-size: 40px;
+    font-style: italic;
+}
+H1{
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url("Math-Background-for-PPT.jpg");
+    height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
